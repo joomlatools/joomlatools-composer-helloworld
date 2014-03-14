@@ -1,0 +1,17 @@
+{
+    "name": "joomlatools/com_helloworld",
+    "type": "joomlatools-installer",
+    "description": "A Hello World component!",
+    "keywords": ["joomla"],
+    "homepage": "https://github.com/joomlatools/joomla-com_helloworld",
+    "authors": [
+        {
+            "name": "Joomlatools",
+            "email": "info@joomlatools.com",
+            "homepage": "https://www.joomlatools.com"
+        }
+    ],
+    "require": {
+        "joomlatools/installer": "*"
+    }
+}
