@@ -12,6 +12,7 @@
     <files folder="site">
         <filename>index.html</filename>
         <filename>helloworld.php</filename>
+        <folder>views</folder>
     </files>
 
     <administration>
