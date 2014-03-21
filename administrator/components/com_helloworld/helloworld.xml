@@ -9,8 +9,7 @@
     <version>0.0.1</version>
     <description>A Hello World component</description>
 
-    <files folder="site">
-        <filename>index.html</filename>
+    <files folder="site/components/com_helloworld">
         <filename>helloworld.php</filename>
         <folder>views</folder>
     </files>
@@ -18,8 +17,7 @@
     <administration>
         <menu>Hello World</menu>
 
-        <files folder="admin">
-            <filename>index.html</filename>
+        <files folder="administrator/components/com_helloworld">
             <filename>helloworld.php</filename>
         </files>
     </administration>
