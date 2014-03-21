@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<view title="Error">
+		<message><![CDATA[Generates an error!]]></message>
+	</view>
+</metadata>
