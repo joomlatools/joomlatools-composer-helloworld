@@ -2,6 +2,7 @@
     "name": "joomlatools/com_helloworld",
     "type": "joomlatools-installer",
     "description": "A Hello World component!",
+    "license": "GPLv3",
     "keywords": ["joomla"],
     "homepage": "https://github.com/joomlatools/joomla-com_helloworld",
     "authors": [
