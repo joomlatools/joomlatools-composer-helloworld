@@ -2,7 +2,7 @@
     "name": "joomlatools/composer-helloworld",
     "type": "joomlatools-composer",
     "description": "A Hello World component!",
-    "license": "GPLv3",
+    "license": "GPL-3.0-only",
     "keywords": ["joomla"],
     "homepage": "https://github.com/joomlatools/joomlatools-composer-helloworld",
     "authors": [
